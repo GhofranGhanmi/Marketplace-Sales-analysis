@@ -24,8 +24,6 @@ The goal is to extract insights from sales data and build an interactive Power B
 ## 🛠 Technologies Used
 
 - **SQL**
-- **Excel**
-- **Python**
 - **Power BI**
 
 ---
