@@ -1,7 +1,33 @@
 # Marketplace-Sales-analysis
 
-A data analysis project focused on understanding sales performance and customer behavior on an online marketplace.  
-The goal is to extract insights from sales data and build an interactive Power BI dashboard to support business decisions.
+This project was designed to help marketplace managers understand sales performance and customer behavior, addressing the challenge of making sense of large volumes of sales data. By turning raw transactions into actionable insights, it supported faster and smarter business decisions.
+
+---
+
+## 📌 Key Features & Insights (What the Project Solved)
+
+Managers often struggle to track sales performance, spot trends, and understand customer behavior, making it hard to prioritize products, optimize inventory, or plan promotions. This project addressed that challenge by:
+
+Revealing sales trends over time (daily, weekly, monthly) to spot peaks, drops, and seasonality.
+Identifying top-performing products, categories, and marketplaces, helping prioritize focus areas for marketing and stock allocation.
+Analyzing customer purchase behavior, enabling targeted promotions and better customer engagement strategies.
+Calculating key KPIs like revenue, profit, and growth rate, providing a clear picture of business performance.
+Transforming raw sales data into a clean, structured, and interactive dashboard, giving managers real-time access to insights and reducing time spent on manual reporting.
+
+## Impact
+
+Helped decision-makers allocate resources efficiently, boosting sales potential.
+Enabled data-driven marketing and inventory planning, reducing stockouts and overstock situations.
+Provided a single interactive dashboard, saving hours of manual analysis and improving strategic planning speed.
+
+---
+
+## 📈 Dashboard Highlights
+
+- Interactive visuals for sales trends, top products, and marketplace performance.
+- Filters for time period, product category, and marketplace for detailed analysis.
+- KPI cards for quick overview of revenue, profit, and growth.
+- Trend charts and top product breakdowns for actionable insights.
 
 ---
 
@@ -25,26 +51,6 @@ The goal is to extract insights from sales data and build an interactive Power B
 
 - **SQL**
 - **Power BI**
-
----
-
-## 📌 Key Features & Insights
-
-- Sales trends over time (daily, weekly, monthly)
-- Top products and categories
-- Best-performing marketplaces
-- Customer purchase behavior analysis
-- KPI metrics like revenue, profit, and growth rate
-- Data cleaning and transformation using SQL
-
----
-
-## 📈 Dashboard Highlights
-
-- Interactive visuals for sales performance
-- Filters for time period, product category, and marketplace
-- Clear KPI cards for quick decision making
-- Trend charts and top product analysis
 
 ---
 
