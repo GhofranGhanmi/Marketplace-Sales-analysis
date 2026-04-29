@@ -2,6 +2,9 @@
 
 This project was designed to help marketplace managers understand sales performance and customer behavior, addressing the challenge of making sense of large volumes of sales data. By turning raw transactions into actionable insights, it supported faster and smarter business decisions.
 
+# 🔗 Live Dashboard
+[View the interactive Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjdmYzhhYmUtZDYwMy00ZGY5LWE3NTgtYmE1YWE1ODcxMTg2IiwidCI6ImRiZDY2NjRkLTRlYjktNDZlYi05OWQ4LTVjNDNiYTE1M2M2MSIsImMiOjl9)
+
 ---
 
 ## 📌 Key Features & Insights (What the Project Solved)
